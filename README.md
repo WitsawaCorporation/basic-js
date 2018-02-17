@@ -9,9 +9,9 @@
   - Reserved Word
   - Data Types
 - Variable Declaration
-  - Operator
-  - Math Class
-  - Types of Conversion
+- Operator
+- Math Class
+- Types of Conversion
 - Arrays
 - Object
 - Condition Statements
@@ -20,10 +20,10 @@
 
 ## Reference
 
-Flowchart - https://en.wikipedia.org/wiki/Flowchart
+Flowchart - <https://en.wikipedia.org/wiki/Flowchart>
 
-Flowchart in Programming https://www.programiz.com/article/flowchart-programming
+Flowchart in Programming <https://www.programiz.com/article/flowchart-programming>
 
-JavaScript Tutorial - https://www.w3schools.com/js/default.asp
+JavaScript Tutorial - <https://www.w3schools.com/js/default.asp>
 
 พัฒนาเว็บแอปพลิเคชั่นด้วย JavaScript - SE-ED Book Center
