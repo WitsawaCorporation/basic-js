@@ -16,6 +16,21 @@ You can see [full content](docs/index.md)
   - Loops
   - Functions
 
+## Materials
+
+Slide or document
+
+| Week | Title | Material |
+-------|-------|----------|
+| 1 | HTML & CSS | unknown |
+| 2 | Workshop | unknown |
+| 3 | JS | unknown |
+| 4 | JS| unknown |
+| 5 | JS | unknown |
+| 6 | JS | unknown |
+| 7 | JS | unknown |
+| 8 | Workshop | unknown |
+
 ## Reference
 
 Flowchart - <https://en.wikipedia.org/wiki/Flowchart>
