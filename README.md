@@ -26,4 +26,4 @@ Web Tutorial - <https://www.w3schools.com>
 
 พัฒนาเว็บแอปพลิเคชั่นด้วย JavaScript - SE-ED Book Center
 
-Learn to Code HTML & CSS- <https://learn.shayhowe.com/html-css/>
+Learn to Code HTML & CSS - <https://learn.shayhowe.com/html-css/>

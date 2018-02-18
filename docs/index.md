@@ -25,11 +25,11 @@
 
 ### Week 4
 
-- Introduction
-  - Comment
-  - Naming
-  - Reserved Word
-  - Data Types
+- Input/Output
+- Comment
+- Naming
+- Reserved Word
+- Data Types
 - Variable Declaration
 - Operator
 - Math Class
