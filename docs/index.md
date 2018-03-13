@@ -1,10 +1,16 @@
-# Content
+# Basic Programming with Web Application
 
 ## HTML & CSS
 
 ### Week 1
 
+- Setup
+  - VS Code
+  - Git & GitHub
 - Introduction
+
+### Week 2
+
 - Layout
 - Typography
 - Color
@@ -12,10 +18,6 @@
 - List
 - Form
 - Table
-
-### Week 2
-
-- Building Your Profile (Workshop)
 
 ## JavaScript
 
@@ -38,10 +40,14 @@
 ### Week 5
 
 - Condition Statements
+  - If-Else
+  - Switch - Case
 
 ### Week 6
 
 - Loops
+  - While
+  - For
 
 ### Week 7
 

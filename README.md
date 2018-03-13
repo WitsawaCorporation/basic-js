@@ -1,8 +1,10 @@
-# Basic programming with JavaScript
+# Basic Programming with Web Application
 
 ## Prepare
 
 - Download [Visual Studio Code](https://code.visualstudio.com/Download)
+- Download [Git](https://git-scm.com/downloads)
+- Register [GitHub](https://github.com/)
 
 ## Outline
 
@@ -22,8 +24,8 @@ Slide or document
 
 | Week | Title | Material |
 -------|-------|----------|
-| 1 | HTML & CSS | unknown |
-| 2 | Workshop | unknown |
+| 1 | Introduction | unknown |
+| 2 | HTML & CSS | unknown |
 | 3 | JS | unknown |
 | 4 | JS| unknown |
 | 5 | JS | unknown |
