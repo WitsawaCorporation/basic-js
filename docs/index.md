@@ -4,10 +4,11 @@
 
 ### Week 1
 
-- Setup
-  - VS Code
-  - Git & GitHub
-- Introduction
+- Setup VS Code
+- Setup Git
+- Register GitHub
+- Introduction Web
+- Push web to GitHub Page
 
 ### Week 2
 
@@ -41,7 +42,7 @@
 
 - Condition Statements
   - If-Else
-  - Switch - Case
+  - Switch-Case
 
 ### Week 6
 

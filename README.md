@@ -11,6 +11,13 @@
 You can see [full content](docs/index.md)
 
 - Basic HTML & CSS
+  - Layout
+  - Typography
+  - Color
+  - Image
+  - List
+  - Form
+  - Table
 - Basic JavaScript
   - Programming Concept
   - Introduction
@@ -24,14 +31,14 @@ Slide or document
 
 | Week | Title | Material |
 -------|-------|----------|
-| 1 | Introduction | unknown |
-| 2 | HTML & CSS | unknown |
-| 3 | JS | unknown |
-| 4 | JS| unknown |
-| 5 | JS | unknown |
-| 6 | JS | unknown |
-| 7 | JS | unknown |
-| 8 | Workshop | unknown |
+| 1 | Introduction | [slide](https://docs.google.com/presentation/d/1eWvuzzbcV2kW6-Gx5XJeVAM6EG-yl5MU3KxjjvMjPmQ/edit#slide=id.g35259703fb_0_1083) |
+| 2 | HTML & CSS | slide |
+| 3 | JS | slide |
+| 4 | JS| slide |
+| 5 | JS | slide |
+| 6 | JS | slide |
+| 7 | JS | slide |
+| 8 | Workshop | slide |
 
 ## Reference
 
