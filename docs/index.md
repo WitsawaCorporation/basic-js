@@ -1,6 +1,6 @@
 # Basic Programming with Web Application
 
-## HTML & CSS
+## Introduction
 
 ### Week 1
 
@@ -9,6 +9,8 @@
 - Register GitHub
 - Introduction Web
 - Push web to GitHub Page
+
+## HTML
 
 ### Week 2
 
@@ -20,13 +22,17 @@
 - Form
 - Table
 
-## JavaScript
+## CSS
 
 ### Week 3
 
-- Programming Concept
+- x
+
+## JavaScript
 
 ### Week 4
+
+- Programming Concept
 
 - Input/Output
 - Comment
@@ -38,22 +44,20 @@
 - Math Class
 - Types of Conversion
 
-### Week 5
-
 - Condition Statements
   - If-Else
   - Switch-Case
-
-### Week 6
 
 - Loops
   - While
   - For
 
-### Week 7
-
 - Functions
 
-### Week 8
+### Week 5
+
+- Bootstrap & Jquery
+
+### Week 6 - 8
 
 - Building Your First Web Application

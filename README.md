@@ -32,7 +32,7 @@ Slide or document
 | Week | Title | Material |
 -------|-------|----------|
 | 1 | Introduction | [slide](https://docs.google.com/presentation/d/1eWvuzzbcV2kW6-Gx5XJeVAM6EG-yl5MU3KxjjvMjPmQ/edit#slide=id.g35259703fb_0_1083) |
-| 2 | HTML & CSS | slide |
+| 2 | HTML & CSS | [slide](https://docs.google.com/presentation/d/1T5x_ANyqVtqb49RKKFk_2hisEbnBaSfd6nuXt7Ic59E/edit?usp=sharing) |
 | 3 | JS | slide |
 | 4 | JS| slide |
 | 5 | JS | slide |
