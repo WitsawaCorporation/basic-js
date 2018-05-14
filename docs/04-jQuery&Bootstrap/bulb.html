@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <img class="bulb" src="https://d14nx13ylsx7x8.cloudfront.net/lesson_image_blocks/assets/000/001/412/original/pic_bulboff.gif">
+  <img class="bulb" src="https://d14nx13ylsx7x8.cloudfront.net/lesson_image_blocks/assets/000/001/412/original/pic_bulboff.gif">
+  <img class="bulb" src="https://d14nx13ylsx7x8.cloudfront.net/lesson_image_blocks/assets/000/001/412/original/pic_bulboff.gif">
+  <img class="bulb" src="https://d14nx13ylsx7x8.cloudfront.net/lesson_image_blocks/assets/000/001/412/original/pic_bulboff.gif">
+  <img class="bulb" src="https://d14nx13ylsx7x8.cloudfront.net/lesson_image_blocks/assets/000/001/412/original/pic_bulboff.gif">
+  <img class="bulb" src="https://d14nx13ylsx7x8.cloudfront.net/lesson_image_blocks/assets/000/001/412/original/pic_bulboff.gif">
+  <img class="bulb" src="https://d14nx13ylsx7x8.cloudfront.net/lesson_image_blocks/assets/000/001/412/original/pic_bulboff.gif">
+  <img class="bulb" src="https://d14nx13ylsx7x8.cloudfront.net/lesson_image_blocks/assets/000/001/412/original/pic_bulboff.gif">
+  <img class="bulb" src="https://d14nx13ylsx7x8.cloudfront.net/lesson_image_blocks/assets/000/001/412/original/pic_bulboff.gif">
+
+  <div>
+    <button class="btn" onclick="toggleLight(1)">Bulb 1 On</button>
+    <button class="btn" onclick="toggleLight(2)">Bulb 2 On</button>
+    <button class="btn" onclick="toggleLight(3)">Bulb 3 On</button>
+    <button class="btn" onclick="toggleLight(4)">Bulb 4 On</button>
+    <button class="btn" onclick="toggleLight(5)">Bulb 5 On</button>
+    <button class="btn" onclick="toggleLight(6)">Bulb 6 On</button>
+    <button class="btn" onclick="toggleLight(7)">Bulb 7 On</button>
+    <button class="btn" onclick="toggleLight(8)">Bulb 8 On</button>
+    <button class="btn" onclick="toggleLight(9)">Bulb 9 On</button>
+  </div>
+
+  <!-- jQuery -->
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+  <script>
+    var lighton = 'https://d14nx13ylsx7x8.cloudfront.net/lesson_image_blocks/assets/000/001/413/original/pic_bulbon.gif'
+    var lightoff = 'https://d14nx13ylsx7x8.cloudfront.net/lesson_image_blocks/assets/000/001/412/original/pic_bulboff.gif'
+    function toggleLight(n) {
+      var index = n-1
+      var bulb = $('.bulb:eq(' + index + ')');
+      var button = $('.btn:eq(' + index + ')');
+      if (n === 9) {
+        bulb.hide();
+      }
+      var isLightOn = bulb.attr('src') === lighton;
+      if (isLightOn) {
+        bulb.attr('src', lightoff)
+      }
+      else {
+        bulb.attr('src', lighton)
+      }
+
+
+
+
+
+
+        // button.innerHTML = "Bulb "+n+" On"
+        // button.innerHTML = "Bulb "+n+" Off"
+    }
+  </script>
+</body>
+</html>
