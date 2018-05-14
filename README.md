@@ -35,10 +35,10 @@ Slide or document
 | 2 | HTML | [slide](https://docs.google.com/presentation/d/1T5x_ANyqVtqb49RKKFk_2hisEbnBaSfd6nuXt7Ic59E/edit?usp=sharing) [web](https://witsawacorporation.github.io/basic-web-app/01-html/) |
 | 3 | CSS | [slide](https://drive.google.com/open?id=18OPPa3yfSDnVmWKrXdMWKNoNn8YvDvcRvuDo68J-IA8) |
 | 4 | JavaScript | [slide](https://docs.google.com/presentation/d/1y8Ci3FGkr14TsWMXaTaxoEOyA-RQj8S8V098QGV2yt0/edit?usp=sharing) |
-| 5 | Jquery & Bootstrap | slide |
-| 6 | Workshop I | slide |
-| 7 | Workshop II  | slide |
-| 8 | Workshop III | slide |
+| 5 | jQuery & Bootstrap | [jQuery](https://drive.google.com/open?id=1X1whKr36cr6taoMxpeXBn5O__UB0CIOtF5dYnHb-R2g) [Bootstrap](https://drive.google.com/open?id=1iJg2TZaT6-ZZGSj6P_mPnxn5uRkDGrvkc3AmOKxoB1k) |
+| 6 | Workshop I | [slide](https://drive.google.com/open?id=1XRCxem_Rl23TdmxhhO22_rUSxMYXJ8NABHLDMyUJIiE) |
+| 7 | Workshop II  | [slide](https://drive.google.com/open?id=1r27V2neGxZJt9LhOoIPRHkOGjNyZk_hdfcp2lAFUFv8) |
+| 8 | Workshop III | [slide](https://drive.google.com/open?id=1euWNbwENxz8ZkEORjg-6u677bbC2T0sEtsTUh9YMv-g) |
 
 ## Reference
 
