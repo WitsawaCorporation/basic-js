@@ -32,7 +32,7 @@ Slide or document
 | Week | Title | Material |
 -------|-------|----------|
 | 1 | Introduction | [slide](https://docs.google.com/presentation/d/1eWvuzzbcV2kW6-Gx5XJeVAM6EG-yl5MU3KxjjvMjPmQ/edit#slide=id.g35259703fb_0_1083) |
-| 2 | HTML | [slide](https://docs.google.com/presentation/d/1T5x_ANyqVtqb49RKKFk_2hisEbnBaSfd6nuXt7Ic59E/edit?usp=sharing) [web](https://witsawa-corporation.github.io/basic-web-app/01-html/) |
+| 2 | HTML | [slide](https://drive.google.com/open?id=15x78geRYxLo4_8oA5dd09pVVfjMoYws9gIfQ4BFv-O8) [web](https://witsawa-corporation.github.io/basic-web-app/01-html/) |
 | 3 | CSS | [slide](https://drive.google.com/open?id=18OPPa3yfSDnVmWKrXdMWKNoNn8YvDvcRvuDo68J-IA8) |
 | 4 | JavaScript | [slide](https://docs.google.com/presentation/d/1y8Ci3FGkr14TsWMXaTaxoEOyA-RQj8S8V098QGV2yt0/edit?usp=sharing) |
 | 5 | jQuery & Bootstrap | [jQuery](https://drive.google.com/open?id=1X1whKr36cr6taoMxpeXBn5O__UB0CIOtF5dYnHb-R2g) [Bootstrap](https://drive.google.com/open?id=1iJg2TZaT6-ZZGSj6P_mPnxn5uRkDGrvkc3AmOKxoB1k) |
